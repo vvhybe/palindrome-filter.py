@@ -1,5 +1,5 @@
 # palindrome-filter.py
-python algorithm to check for palindrome English words in 3 json files.
+python algorithm to check for palindrome English words in 3 diffrent json files.
 palindrome words like "mom", "dad", "eye" you can read theme from left to right (ltr) and right to left (rtl).
 
 File         | Code         | words quantity | approximate filter time (s)
